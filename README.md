@@ -1,16 +1,18 @@
 # Hi, I'm Sanjeet Kumar 👋
 
-**Python Backend Developer** focused on building production-ready APIs, multi-tenant SaaS applications, and AI/RAG-powered systems.
+**Backend-focused Full-Stack Developer** building production-ready APIs,
+multi-tenant SaaS applications, and AI/RAG-powered systems with
+**Python/FastAPI and React/Next.js**.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔭 Building backend systems with **FastAPI, PostgreSQL, async SQLAlchemy, and Pydantic**
-- 🔐 Working with **JWT authentication, RBAC, multi-tenancy, and REST APIs**
+- 🔭 Building full-stack products with **FastAPI, PostgreSQL, React, and Next.js**
+- ⚙️ Backend-focused with experience in **async SQLAlchemy, Pydantic, REST APIs, and database design**
+- 🔐 Working with **JWT authentication, RBAC, and multi-tenant architectures**
 - 🤖 Building **RAG pipelines** using embeddings, pgvector, vector search, and LLM APIs
-- ⚡ Interested in scalable backend systems and AI application engineering
-- 🌍 Open to **Backend Developer / Python Developer / AI Backend** opportunities
+- 🌍 Open to **Backend / Python / Full-Stack / AI Backend** opportunities
 
 ---
 
@@ -18,9 +20,11 @@
 
 ### 🎓 EduKiteum — Multi-Tenant School Management SaaS
 
-A multi-tenant school management platform for managing students, attendance, fees, staff, exams, and institutional workflows.
+A multi-tenant school management platform for managing students,
+attendance, fees, staff, exams, and institutional workflows.
 
-**Built with:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, React/Next.js
+**Backend:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic  
+**Frontend:** React / Next.js
 
 🌐 Live: https://edu.kiteum.com
 
@@ -30,11 +34,15 @@ A multi-tenant school management platform for managing students, attendance, fee
 
 ### 🤖 AgentKiteum — AI Business Agent
 
-A multi-tenant AI business chatbot that answers customer questions and recommends products/services using each business's own knowledge base.
+A multi-tenant AI business chatbot that answers customer questions and
+recommends products/services using each business's own knowledge base.
 
-Implemented a RAG pipeline with document ingestion, chunking, embeddings, pgvector similarity search, retrieval, and LLM-generated responses.
+Implemented a RAG pipeline with document ingestion, chunking, embeddings,
+pgvector similarity search, retrieval, and LLM-generated responses.
 
-**Built with:** FastAPI, PostgreSQL, SQLAlchemy, pgvector, LLM APIs, React/Next.js
+**Backend:** FastAPI, PostgreSQL, SQLAlchemy, pgvector  
+**AI:** RAG, Embeddings, Vector Search, LLM APIs  
+**Frontend:** React / Next.js
 
 🌐 Live: https://agent.kiteum.com
 
@@ -44,19 +52,19 @@ Implemented a RAG pipeline with document ingestion, chunking, embeddings, pgvect
 
 ## 🛠 Tech Stack
 
-**Backend:**
+**Backend:**  
 `Python` `FastAPI` `Pydantic` `SQLAlchemy` `REST APIs`
 
-**Database:**
+**Database:**  
 `PostgreSQL` `SQL` `pgvector`
 
-**AI:**
+**AI:**  
 `RAG` `Embeddings` `Vector Search` `LLM APIs`
 
-**Frontend:**
+**Frontend:**  
 `JavaScript` `React` `Next.js` `Tailwind CSS`
 
-**Tools:**
+**Tools:**  
 `Git` `Linux`
 
 ---

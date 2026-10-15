@@ -24,7 +24,7 @@ I care about clean architecture, secure multi-tenant design, performance, and sh
 
 ## 💻 Featured Projects
 
-### 🎓 EduKiteum: Multi-Tenant School Management SaaS
+### 🎓 Education Management System: Multi-Tenant School Management SaaS
 
 A multi-tenant platform for managing students, attendance, fees, staff, exams, and day-to-day institutional workflows.
 
@@ -41,7 +41,7 @@ A multi-tenant platform for managing students, attendance, fees, staff, exams, a
 
 ---
 
-### 🤖 AgentKiteum: AI Business Agent (RAG)
+### 🤖 AI Chat Agent: Business Chatbot (RAG)
 
 A multi-tenant AI chatbot that answers customer questions and recommends products and services using each business's own knowledge base.
 

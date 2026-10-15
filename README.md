@@ -18,6 +18,8 @@ I care about clean architecture, secure multi-tenant design, performance, and sh
 
 🌍 **Open to remote Backend / Python / Full-Stack / AI Backend roles** with international teams and startups.
 
+📚 **Currently learning:** data structures & algorithms (Python) and system design fundamentals: caching strategies, horizontal scaling, database replication and sharding, load balancing.
+
 ---
 
 ## 💻 Featured Projects

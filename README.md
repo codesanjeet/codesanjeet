@@ -37,7 +37,7 @@ A multi-tenant platform for managing students, attendance, fees, staff, exams, a
 **Frontend:** TypeScript, React, Next.js
 **DevOps:** Docker, Linux
 
-> Source code is maintained in a private repository.
+🔗 **Source code:** [education-management-system](https://github.com/codesanjeet/education-management-system)
 
 ---
 
@@ -55,7 +55,7 @@ A multi-tenant AI chatbot that answers customer questions and recommends product
 **Frontend:** TypeScript, React, Next.js
 **DevOps:** Docker
 
-> Source code is maintained in a private repository.
+🔗 **Source code:** [chat-agent-backend](https://github.com/codesanjeet/chat-agent-backend) · [chat-agent-frontend](https://github.com/codesanjeet/chat-agent-frontend)
 
 ---
 
